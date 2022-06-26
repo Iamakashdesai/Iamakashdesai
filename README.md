@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Akash Desai</h1>
+<h1 align="center">Hi 👋, I'm Akash Desai</h1>
 <h3 align="center">ML/DS Enthusiast,</h3>
 
 <p align="left"> <a href="https://twitter.com/iamakashdesai_" target="blank"><img src="https://img.shields.io/twitter/follow/iamakashdesai_?logo=twitter&style=for-the-badge" alt="iamakashdesai_" /></a> </p>
@@ -15,5 +15,3 @@
 <a href="https://www.hackerearth.com/@akashshrinivasdesai2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akashshrinivasdesai2001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akashshrinivasdesai2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashshrinivasdesai2001" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamakashdesai&show_icons=true&locale=en&layout=compact" alt="iamakashdesai" /></p>
