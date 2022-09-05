@@ -6,40 +6,29 @@
 
 ### Glad to see you here! <a href="https://hits.seeyoufarm.com"><img height="17" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Futkryuk%2Futkryuk&count_bg=%23197EB9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 
-I'm a self-taught passionate software developer from India 🇮🇳.
-I graduated in Information Technology 🎓 from BIT Mesra 🏛.
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Full Stack Web Development 🕸️.
+I'm a self-taught passionate Data Scientist from India 🇮🇳.
+I am currently pursing Bachelor in Computer Science 🎓 Jain University 🏛.
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Machine Learning Field🕸️.
 
 ### About Me
 
-- 🛠 &nbsp; I’m currently working with Springboot, Angular, Javascript, Mongodb, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/utkryuk).
-- 📫 &nbsp; How to reach me: utkryuk@gmail.com.
-- 📝 &nbsp; Checkout my [**Resume**](https://github.com/utkryuk/utkryuk/blob/main/assets/Utkarsh_Gupta_Resume.pdf).
+- 🛠 &nbsp; I’m currently pursuing Bachelor in Computer Science .
+- 🚀 &nbsp; I’m currently learning Machine Learning.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Iamakashdesai).
+- 📫 &nbsp; How to reach me: akashshrinivasdesai2001@gmail.com.
+- 📝 &nbsp; Checkout my [**Resume**](https://github.com/Iamakashdesai).
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-- 📚 &nbsp; I love reading books. Currently, I am reading **The Three-Body Problem**.
+- 💻 &nbsp; I love exploring new Machine Learnig Algorithm .
+- 🍕 &nbsp;  
+- 📚 &nbsp; I love reading books as well as I love travelling.
 
 ## Languages and Tools:
 
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt = "tailwind"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
 
 ### Projects and Dev Stuffs:
@@ -48,8 +37,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkryuk&show_icons=true&count_private=true&include_all_commits=true&theme=omni" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkryuk&count_private=true&show_icons=true&layout=compact&langs_count=8&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iamakashdesai&show_icons=true&count_private=true&include_all_commits=true&theme=omni" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamakashdesai&count_private=true&show_icons=true&layout=compact&langs_count=8&theme=omni"/>
 </details>
 
 <details>	
