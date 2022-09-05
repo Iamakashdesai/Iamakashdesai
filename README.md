@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iamakashdesai)
 
 
-### Glad to see you here! <a href="https://hits.seeyoufarm.com"><img height="17" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Futkryuk%2Futkryuk&count_bg=%23197EB9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+### Glad to see you here! 
 
 I'm a self-taught passionate Data Scientist from India 🇮🇳.
 I am currently pursing Bachelor in Computer Science 🎓 Jain University 🏛.
@@ -58,12 +58,10 @@ code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/ma
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Notebook - 15g-br011tx (i5)</li>
+  	    <li><b>OS:</b> Ubuntu , Windows</li>
+	    <li><b>Laptop: </b> Linovo Thinkpad (i5)</li>
   	    <li><b>Browser: </b> Google Chrome Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
-	    <li><b>Code Editors:</b> VSCode (p.s. The best Editor), Sublime, Intellij</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin</li>
+	    <li><b>Code Editors:</b> VSCode (p.s. The best Editor),Jupyter Notebook</li>
 	</ul>	
 </details>
 
